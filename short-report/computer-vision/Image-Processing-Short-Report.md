@@ -1,4 +1,7 @@
-### Image Processing 21M31393 Pan Jianqi
+---
+title: Image Processing
+tags: CV
+---
 
 We can use a 3D array to represent a RGB image. Two of the dimensions are used to represent the coordinate position of the pixel, and the third dimension has three elements, which respectively represent the brightness value of the three primary colors of the pixel.
 
