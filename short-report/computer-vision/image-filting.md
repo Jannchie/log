@@ -1,7 +1,7 @@
 ---
 title: Image filtering
-createdAt: 2021-04-30 17:31:12
-updatedAt: 2021-05-01 00:44:46
+createdAt: Sat, 01 May 2021 01:56:03 +0900
+updatedAt: Sat, 01 May 2021 01:56:00 +0900
 ---
 
 There's a lot of noise in the image. In general, noise signals are irrelevant to the object to be studied. It comes in the form of useless information that disrupts the observable information of the image. We should denoise the image under the condition of keeping the detail features of the image as soon as possible. It can help us extract visual features robust to noise to build block of recognition. We can use **filtering** technology to accomplish this step of processing.
