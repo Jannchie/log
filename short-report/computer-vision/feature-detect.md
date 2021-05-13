@@ -2,6 +2,7 @@
 title: Features Detect
 createdAt: 2021-04-30 17:31:19
 updatedAt: Thu, 13 May 2021 18:45:05 +0900
+lang: en-US
 ---
 
 There are two different images that have the same thing on them. If we need to locate the features and align them, there are three step to do it:
