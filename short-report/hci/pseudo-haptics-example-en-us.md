@@ -4,7 +4,6 @@ createdAt: Mon, 10 May 2021 16:37:55 +0900
 lang: en-us
 hidden: true
 ---
-**21M31393 Pan Jianqi Report #1**
 
 ![pull down](https://i.loli.net/2021/05/10/y7m8zxrwqPbRASn.png)
 
