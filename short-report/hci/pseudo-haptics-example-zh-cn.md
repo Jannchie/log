@@ -1,6 +1,7 @@
 ---
 title: 人机交互#1 - 使用伪触觉的例子 
 createdAt: Mon, 10 May 2021 16:37:55 +0900
+updatedAt: Mon, 10 May 2021 16:37:55 +0900
 hidden: true
 ---
 

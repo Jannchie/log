@@ -1,6 +1,7 @@
 ---
 title: HCI#2 - Rubber Hand Illusion in Game
 createdAt: Tue, 18 May 2021 16:52:51 +0900
+updatedAt: Tue, 18 May 2021 16:52:51 +0900
 lang: en-us
 hidden: true
 ---
