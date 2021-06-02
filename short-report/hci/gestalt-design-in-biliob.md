@@ -1,6 +1,7 @@
 ---
-title: Gestalt Design in BiliOB
+title: HCI#3 - Gestalt Design in BiliOB
 updatedAt: Sat, 22 May 2021 17:08:18 +0900
+lang: en-US
 ---
 
 [BiliOB](https://www.biliob233.com/) is a web site that I made. I inadvertently used some Gestalt-related design tricks when I designed it.

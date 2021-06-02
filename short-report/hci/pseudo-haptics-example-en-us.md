@@ -2,7 +2,7 @@
 title: HCI#1 - Pseudo-Haptics Example
 createdAt: Mon, 10 May 2021 16:37:55 +0900
 updatedAt: Mon, 10 May 2021 16:37:55 +0900
-lang: en-us
+lang: en-US
 hidden: true
 ---
 
